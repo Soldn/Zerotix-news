@@ -1,0 +1,21 @@
+{
+  "version": "1.0.1",
+  "files": [
+    {
+      "path": "mods/mod1.jar",
+      "url": "https://raw.githubusercontent.com/Soldn/Zerotix-news/main/Zerotix-launcher-files/mods/mod1.jar"
+    },
+    {
+      "path": "mods/mod2.jar",
+      "url": "https://raw.githubusercontent.com/Soldn/Zerotix-news/main/Zerotix-launcher-files/mods/mod2.jar"
+    },
+    {
+      "path": "config/config1.cfg",
+      "url": "https://raw.githubusercontent.com/Soldn/Zerotix-news/main/Zerotix-launcher-files/config/config1.cfg"
+    },
+    {
+      "path": "config/options.txt",
+      "url": "https://raw.githubusercontent.com/Soldn/Zerotix-news/main/Zerotix-launcher-files/config/options.txt"
+    }
+  ]
+}
