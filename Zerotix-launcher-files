@@ -1,8 +1,0 @@
-Zerotix-launcher-files/
-├── mods/
-│   ├── mod1.jar
-│   └── mod2.jar
-├── config/
-│   ├── config1.cfg
-│   └── options.txt
-└── version.json
