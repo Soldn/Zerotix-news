@@ -1,0 +1,22 @@
+{
+  "mods": [
+    {
+      "name": "mod1.jar",
+      "url": "https://raw.githubusercontent.com/Soldn/Zerotix-launcher-files/main/mods/mod1.jar"
+    },
+    {
+      "name": "mod2.jar",
+      "url": "https://raw.githubusercontent.com/Soldn/Zerotix-launcher-files/main/mods/mod2.jar"
+    }
+  ],
+  "config": [
+    {
+      "name": "config1.cfg",
+      "url": "https://raw.githubusercontent.com/Soldn/Zerotix-launcher-files/main/config/config1.cfg"
+    },
+    {
+      "name": "options.txt",
+      "url": "https://raw.githubusercontent.com/Soldn/Zerotix-launcher-files/main/config/options.txt"
+    }
+  ]
+}
